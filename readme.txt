@@ -12,6 +12,8 @@ Let the users to search Posts, Pages or Products from widget on keypress, withou
 
 == Description ==
 Let the users to search Posts, Pages or Products from widget on keypress, without loading the whole page.
+<br>
+<a href="http://webcodingplace.com/quick-search-widget/">SEE DEMO HERE</a>
 
 == Installation ==
 1. Go to plugins in your dashboard and select Quick Search Widget
@@ -19,4 +21,5 @@ Let the users to search Posts, Pages or Products from widget on keypress, withou
 3. Now view that area from frontend
 
 == Screenshots ==
-1. Searching on keypress
+1. Admin Settings
+2. Widgets in Site
